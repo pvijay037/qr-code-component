@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Outfit", sans-serif;
+}
+body{
+    padding: 3rem;
+}
+
+.project{
+    background-color: #D6E1F0;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: .5rem;
+    padding: 5rem;
+    Weights: 400px, 700px;
+    font-size: 11px;
+    text-align: center;
+
+}
+.container{
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: .5rem;
+    background-color: white;
+    padding: 1.2rem;
+    width:240px;
+    height:400px;
+}
+.qrcode{
+border-radius: .5rem;
+width:100%;
+}
+.upperpart > header > h1 {
+font-size: 1.2rem;
+color: hsl(218, 44%, 22%);
+}
+.upperpart > p + p {
+    font-size: 0.9375rem;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+
+p,h1{
+text-align: center;
+padding-top: 1.5rem;
+}
+
